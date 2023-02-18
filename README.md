@@ -7,6 +7,5 @@ In general, the app provides users with a convenient and efficient way to order 
 
 Screenshots
 ===========
-Login screen
 ![Login - 2](https://user-images.githubusercontent.com/113151586/219827293-743c4c69-6d32-4cb5-b6a4-0c45d6d43c8d.png)
 
